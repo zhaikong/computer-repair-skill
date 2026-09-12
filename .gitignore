@@ -6,4 +6,5 @@ __pycache__/
 Thumbs.db
 *.zip
 .idea/
-.vscode/
+config.bat
+node_modules
